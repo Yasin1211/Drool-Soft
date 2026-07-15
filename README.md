@@ -1,4 +1,6 @@
 # Lenguaje_Programacion_II
+
+# Nota: No seas meco drool si no hiciste nada de lo que escribiste en este readme
 1. Crear una Factura utilizando todo lo visto en el curso, esto es, Asignación dinámica de memoria, Archivos, Organización de datos de un archivo, si así fuera el caso, con los siguientes datos como se muestran en las figuras.
 USTEDES HARÁN SU TIENDA Y SU FACTURA DE LOS PRODUCTOS QUE DESEAN COMO USTEDES QUIERAN O SE LAS INGENIEN
 
